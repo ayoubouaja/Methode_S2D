@@ -6,6 +6,7 @@ Dans cet exercice, vous acquerrez de l'expérience pratique en matière d'opéra
 
 
 **Outils et Bibliothèques**
+
 Python
 NumPy
 OpenCV
